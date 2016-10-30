@@ -21,7 +21,7 @@
 
 <addon id="plugin.video.GuekTV"
        name="[COLOR beige]Guek[/COLOR][COLOR red]TV[/COLOR]"
-       version="0.0.2"
+       version="0.0.3"
        provider-name="[COLOR beige]Guek[/COLOR][COLOR red]TV[/COLOR]">
   <requires>
 	<import addon="xbmc.python" version="2.1.0"/>
