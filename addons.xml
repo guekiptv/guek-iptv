@@ -5,9 +5,9 @@
 		version="0.0.1"
 		provider-name="Guek Tv IPTV">
 	<extension point="xbmc.addon.repository" name="Guek Tv Team Add-on Repository">
- 		<info compressed="false">https://github.com/guekiptv/guek-iptv/raw/master/addons.xml</info>
- 		<checksum>https://github.com/guekiptv/guek-iptv/raw/master/addons.xml.md5</checksum>
- 		<datadir zip="true">https://github.com/guekiptv/guek-iptv/raw/master/zips</datadir>
+7 		<info compressed="false">https://github.com/guekiptv/guek-iptv/raw/master/addons.xml</info>
+8 		<checksum>https://github.com/guekiptv/guek-iptv/raw/master/addons.xml.md5</checksum>
+9 		<datadir zip="true">https://github.com/guekiptv/guek-iptv/raw/master/zips</datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary lang="en">Install Add-ons from xbmcTR Add-on Repository</summary>
